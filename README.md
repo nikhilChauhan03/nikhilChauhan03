@@ -1,4 +1,4 @@
-![Header](https://github.com/NLucifer03/NLucifer03/blob/main/github-header-image-1.png?raw=true)
+![Header](https://github.com/nikhilChauhan03/nikhilChauhan03/blob/main/github-header-image-1.png?raw=true)
 <h3 align="justify">Determined Java Backend Developer with passion for learning with an endless supply of optism and curosity. Proficent in some Frontend and backend technologies
 like Java, Html, CSS, Java-Script, Spring, Hibernate, Sql/Mysql. 
 Able to write clean and reusable code. Looking forward to challenging and progressive environent</h3>
@@ -7,7 +7,7 @@ Able to write clean and reusable code. Looking forward to challenging and progre
 
 - 🌱 I’m currently learning **Java Backend Development**
 
-- 👨‍💻 My personal website [Click here..](https://nlucifer03.github.io/)
+- 👨‍💻 My personal website [Click here..](https://nikhilChauhan03.github.io/)
 
 - 💬 Ask me about **Java-Script, HTML, CSS, Java, SQl**
 
@@ -73,6 +73,6 @@ Able to write clean and reusable code. Looking forward to challenging and progre
 
 <hr>
 
-<p><img align="left" style="width:45%" src="https://github-readme-stats.vercel.app/api?username=NLucifer03&show_icons=true&locale=en" alt="NLucifer03" /></p>
+<p><img align="left" style="width:45%" src="https://github-readme-stats.vercel.app/api?username=nikhilChauhan03&show_icons=true&locale=en" alt="nikhilChauhan03" /></p>
 
-<p><img align="right" style="width:45%" src="https://github-readme-streak-stats.herokuapp.com/?user=NLucifer03&" alt="NLucifer03" /></p>
+<p><img align="right" style="width:45%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilChauhan03&" alt="nikhilChauhan03" /></p>
